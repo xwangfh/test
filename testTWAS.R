@@ -1,3 +1,4 @@
+#this is for test
 removehighcorr=function(dat=0,corcutoff=0.9)
 {
   tmp <- cor(dat)
